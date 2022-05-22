@@ -1,0 +1,10 @@
+Ivanov 100000.00
+Petrov 120000.00
+Sidorov 18000.00
+Alekseev 19000.90
+Chernov 35000.00
+Mishin 45000.00
+Mishina 15000.00
+Ivanova 11000.00
+Chernova 80000.00
+Sidorova 20000.00
