@@ -1,3 +1,4 @@
+#4-5
 class Office_equipment:
     def __init__(self, model, price, year):
         self.model = model

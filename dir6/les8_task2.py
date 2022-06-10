@@ -1,3 +1,4 @@
+#2
 class ZeroDivisionError(Exception):
     try:
         a = int(input("введите числовое значение делимого"))
